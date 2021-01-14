@@ -1,0 +1,53 @@
+/*Adding Hover feature for my anchor*/
+
+a:hover {
+    opacity: 20%;
+    text-decoration: none;
+  }
+  
+
+ body,html{
+     height: 100%;
+ }
+
+.bg {
+    background-image: url("./photos/bg.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+  /* Adding specific features for my Social Media buttons*/
+  .fa{
+    border-radius: 50%;
+    text-decoration: none;
+    margin-right: 5px;
+  }
+  
+  .fa-facebook{
+  background-color: #3b5998;
+  color: white;
+  padding: 8px 13px 8px 13px;
+  }
+  
+  .fa-github {
+    background-color: black;
+    color: white;
+    padding: 8px 10px 8px 10px;
+  
+  }
+  
+  .fa-youtube{
+    background-color: red;
+    color: white;
+    padding: 8px 10px 8px 10px;
+  }
+  
+  .fa-linkedin{
+    background-color: #0e76a8;
+    color: white;
+    padding: 8px 10px 8px 10px;
+  }
+  
+  
