@@ -38,8 +38,8 @@ a:hover {
 /*Place to put Resume*/ 
 .resumeBox{
     display: flex;
-  justify-content: center;
-  align-items: center;
+    justify-content: center;
+    align-items: center;
 }
 
   /* Adding specific features for my Social Media buttons*/
