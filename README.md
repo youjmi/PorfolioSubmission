@@ -19,7 +19,13 @@ Ace of Pentacles is our first project that we have successfully created. We thin
 
 Project 1: Ace of Pentacles: https://youjmi.github.io/AceOfPentacles/
 
-I would like to 
+I would like to give special recognition to my Ace of Pentacles Partners:
+ 1. Amir Ashtiany - https://github.com/Alexfit4
+ 2. Frankie Rosado - https://github.com/Franciscorosado09
+ 3. Rachel Wanke: - https://github.com/rwanke14
+ 4. Johnnie Simpson - https://github.com/balokdecoy
+
+ 
 
 The second work is my Random Password Generator which was my first assignment that I am most proud of!
 
