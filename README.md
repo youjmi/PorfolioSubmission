@@ -8,7 +8,10 @@ Welcome to my Portfolio Webpage where I share with you a little bit about me, my
 
  When you click on the Portfolio link, it will open to a page showing you three of my works that I am most proud of. 
 
-<img width="1424" alt="Screen Shot 2021-01-14 at 9 58 59 PM" src="https://user-images.githubusercontent.com/73494581/104676691-dbb3e000-56b5-11eb-8b1f-81766f45177b.png">
+
+<img width="1417" alt="Screen Shot 2021-01-14 at 9 58 24 PM" src="https://user-images.githubusercontent.com/73494581/104676687-d9ea1c80-56b5-11eb-952c-5c08428b2201.png">
+
+
 
 Each of my works have an option to view my Github code and an option to view my deployed WebPages where the user will be able to interact. From left to right, I present my most recent accomplishment! It was my first project with my group. We have come up with an original concept of Tarot Card Readings and Horoscopes.
 
@@ -24,5 +27,4 @@ Daily Calendar : https://youjmi.github.io/daily-planner-hw5/
 
 
 Lastly, the Resume Link will direct you to a different page presenting to you my most up to date Resume.
-
-<img width="1417" alt="Screen Shot 2021-01-14 at 9 58 24 PM" src="https://user-images.githubusercontent.com/73494581/104676687-d9ea1c80-56b5-11eb-952c-5c08428b2201.png">
+<img width="1424" alt="Screen Shot 2021-01-14 at 9 58 59 PM" src="https://user-images.githubusercontent.com/73494581/104676691-dbb3e000-56b5-11eb-8b1f-81766f45177b.png">
