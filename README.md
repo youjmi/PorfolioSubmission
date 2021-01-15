@@ -19,22 +19,25 @@ Ace of Pentacles is our first project that we have successfully created. We thin
 
 Project 1: Ace of Pentacles: https://youjmi.github.io/AceOfPentacles/
 
+<img width="1435" alt="Screen Shot 2021-01-14 at 3 32 06 PM" src="https://user-images.githubusercontent.com/73494581/104678867-63035280-56ba-11eb-9c87-0e04d9c3d40d.png">
+
 I would like to give special recognition to my Ace of Pentacles Partners:
  1. Amir Ashtiany - https://github.com/Alexfit4
  2. Frankie Rosado - https://github.com/Franciscorosado09
  3. Rachel Wanke: - https://github.com/rwanke14
  4. Johnnie Simpson - https://github.com/balokdecoy
 
- 
-
 The second work is my Random Password Generator which was my first assignment that I am most proud of!
 
 Password Generator : https://youjmi.github.io/JavaScriptHW3/
+
+<img width="726" alt="Screen Shot 2021-01-14 at 3 25 42 PM" src="https://user-images.githubusercontent.com/73494581/104678866-63035280-56ba-11eb-8bc9-9a5a7722b059.png">
 
 The third work is my Daily Calendar. It is color coded by matching the Hour of the Day and you are able to save inputs to Local Storage. This was my first experience with working with Local Storage. 
 
 Daily Calendar : https://youjmi.github.io/daily-planner-hw5/
 
+<img width="1025" alt="Screen Shot 2021-01-14 at 3 34 52 PM" src="https://user-images.githubusercontent.com/73494581/104678872-6565ac80-56ba-11eb-8956-2dce45725fa9.png">
 
 Lastly, the Resume Link will direct you to a different page presenting to you my most up to date Resume.
 <img width="1424" alt="Screen Shot 2021-01-14 at 9 58 59 PM" src="https://user-images.githubusercontent.com/73494581/104676691-dbb3e000-56b5-11eb-8b1f-81766f45177b.png">
