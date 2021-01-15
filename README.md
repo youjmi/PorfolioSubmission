@@ -13,9 +13,13 @@ Welcome to my Portfolio Webpage where I share with you a little bit about me, an
 
 
 
-Each of my works have an option to view my Github code and an option to view my deployed WebPages where the user will be able to interact. From left to right, I present my most recent accomplishment! It was my first project with my group. We have come up with an original concept of Tarot Card Readings and Horoscopes.  
+Each of my works have an option to view my Github code and an option to view my deployed WebPages where the user will be able to interact with what I have created. From left to right, I present my most recent accomplishment, my first Project! 
+
+Ace of Pentacles is our first project that we have successfully created. We think it is completely original and complex. This project is a Horoscrope/Tart Card Reading website with various JS equations that help us randomize 70+ different cards. 
 
 Project 1: Ace of Pentacles: https://youjmi.github.io/AceOfPentacles/
+
+I would like to 
 
 The second work is my Random Password Generator which was my first assignment that I am most proud of!
 
