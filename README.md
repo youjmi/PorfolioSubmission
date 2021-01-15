@@ -2,11 +2,16 @@
 
 Welcome to my Portfolio Webpage where I share with you a little bit about me, and some projects that I am proud of, and my Resume. 
 
+
+
  When you first click on my deployed link :https://youjmi.github.io/PorfolioSubmission/ , it will take you to the main page or the index. From there you will be able to guide yourself to the appropriate links on my NabvBar and my Social Media links in the footer.
  
  <img width="1437" alt="Screen Shot 2021-01-14 at 9 58 10 PM" src="https://user-images.githubusercontent.com/73494581/104676696-deaed080-56b5-11eb-9ce6-1f098c0a4b15.png">
 
+
+
  When you click on the Portfolio link, it will open to a page showing you three of my works that I am most proud of. 
+
 
 
 <img width="1417" alt="Screen Shot 2021-01-14 at 9 58 24 PM" src="https://user-images.githubusercontent.com/73494581/104676687-d9ea1c80-56b5-11eb-952c-5c08428b2201.png">
@@ -39,5 +44,9 @@ Daily Calendar : https://youjmi.github.io/daily-planner-hw5/
 
 <img width="1025" alt="Screen Shot 2021-01-14 at 3 34 52 PM" src="https://user-images.githubusercontent.com/73494581/104678872-6565ac80-56ba-11eb-8956-2dce45725fa9.png">
 
+
+
 Lastly, the Resume Link will direct you to a different page presenting to you my most up to date Resume.
+
+
 <img width="1424" alt="Screen Shot 2021-01-14 at 9 58 59 PM" src="https://user-images.githubusercontent.com/73494581/104676691-dbb3e000-56b5-11eb-8b1f-81766f45177b.png">
