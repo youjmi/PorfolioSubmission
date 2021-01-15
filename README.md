@@ -1,6 +1,6 @@
 # PorfolioSubmission
 
-Welcome to my Portfolio Webpage where I share with you a little bit about me, my Resume, and some projects that I am proud of. 
+Welcome to my Portfolio Webpage where I share with you a little bit about me, and some projects that I am proud of, and my Resume. 
 
  When you first click on my deployed link :https://youjmi.github.io/PorfolioSubmission/ , it will take you to the main page or the index. From there you will be able to guide yourself to the appropriate links on my NabvBar and my Social Media links in the footer.
  
@@ -13,7 +13,7 @@ Welcome to my Portfolio Webpage where I share with you a little bit about me, my
 
 
 
-Each of my works have an option to view my Github code and an option to view my deployed WebPages where the user will be able to interact. From left to right, I present my most recent accomplishment! It was my first project with my group. We have come up with an original concept of Tarot Card Readings and Horoscopes.
+Each of my works have an option to view my Github code and an option to view my deployed WebPages where the user will be able to interact. From left to right, I present my most recent accomplishment! It was my first project with my group. We have come up with an original concept of Tarot Card Readings and Horoscopes.  
 
 Project 1: Ace of Pentacles: https://youjmi.github.io/AceOfPentacles/
 
