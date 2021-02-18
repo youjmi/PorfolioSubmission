@@ -6,7 +6,7 @@ Welcome to my Portfolio Webpage where I share with you a little bit about me, an
 
  When you first click on my deployed link :https://youjmi.github.io/PorfolioSubmission/ , it will take you to the main page or the index. From there you will be able to guide yourself to the appropriate links on my NabvBar and my Social Media links in the footer.
  
- <img width="1437" alt="Screen Shot 2021-01-14 at 9 58 10 PM" src="https://user-images.githubusercontent.com/73494581/104676696-deaed080-56b5-11eb-9ce6-1f098c0a4b15.png">
+![updateP1](https://user-images.githubusercontent.com/73494581/108408395-00d6c980-71f3-11eb-9eae-ff8cc5cf622b.png)
 
 
 
@@ -14,7 +14,7 @@ Welcome to my Portfolio Webpage where I share with you a little bit about me, an
 
 
 
-<img width="1417" alt="Screen Shot 2021-01-14 at 9 58 24 PM" src="https://user-images.githubusercontent.com/73494581/104676687-d9ea1c80-56b5-11eb-952c-5c08428b2201.png">
+![updateP2](https://user-images.githubusercontent.com/73494581/108408404-0207f680-71f3-11eb-893d-3649b642a0ee.png)
 
 
 
@@ -44,9 +44,19 @@ Daily Calendar : https://youjmi.github.io/daily-planner-hw5/
 
 <img width="1025" alt="Screen Shot 2021-01-14 at 3 34 52 PM" src="https://user-images.githubusercontent.com/73494581/104678872-6565ac80-56ba-11eb-8956-2dce45725fa9.png">
 
+The fourth work is my Employee Tracker. I have created and built a solution for managing a company's employees using node, inquirer, and MySQL.
+
+![employee-track](https://user-images.githubusercontent.com/73494581/108408696-5ca15280-71f3-11eb-81b4-5274dfee907a.png)
+
+The fifth work is my Employee Engine Generator, or a software engineering team generator. With this application, you will be able to navigate with ease and built your Team into an automatically generated html file.
+
+![employee-Engine](https://user-images.githubusercontent.com/73494581/108408708-6034d980-71f3-11eb-9738-f76bc8d2d59d.png)
+
+The sixth work is my Burger Logger Application. It is my most recent one that I have completed! I have created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. I have followed the MVC design pattern; using Node and MySQL to query and routing data in my app, and Handlebars to generate my HTML.
+
+![pic1Burg](https://user-images.githubusercontent.com/73494581/108408739-69be4180-71f3-11eb-83c8-530ec9833a2f.png)
 
 
 Lastly, the Resume Link will direct you to a different page presenting to you my most up to date Resume.
 
-
-<img width="1424" alt="Screen Shot 2021-01-14 at 9 58 59 PM" src="https://user-images.githubusercontent.com/73494581/104676691-dbb3e000-56b5-11eb-8b1f-81766f45177b.png">
+![updateP3](https://user-images.githubusercontent.com/73494581/108408410-02a08d00-71f3-11eb-8e09-ff137141a1fe.png)
