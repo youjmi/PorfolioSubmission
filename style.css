@@ -12,10 +12,14 @@ a:hover {
 
 body {
     background-image: url("./photos/bg.png");
-    height: 100%;
+    height: 110%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.mbox{
+  margin-top: 9%;
 }
 
 /* Wanted to create a box where the Intro Text is more visible*/
@@ -77,6 +81,21 @@ body {
  
   
   @media only screen and (max-width: 700px) {
+
+    body {
+      height: auto;
+      background-position: center;
+      background-repeat:repeat;
+      background-size: cover;
+    }
+
+    .holdbox {
+
+      background: none;
+      width: 100%; 
+      padding: 20px; 
+  }
+
     .resumeBox {
         height:100%;
         width: 100%;
