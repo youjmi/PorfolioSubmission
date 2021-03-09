@@ -87,11 +87,19 @@ npm init
 Varying between the 3 different applications, I have installed the following packages that were essential in their own way:
 
 ```
-npm install express
-npm install express-handlebars
-npm install mysql
-npm i console.table --save
-npm i inquirer --save
+  npm install express
+  npm install express-handlebars
+  npm install mysql
+  npm install console.table
+  npm install inquirer 
+  npm install express-session
+  npm install mysql2
+  npm install bcryptjs
+  npm install body-parser
+  npm install passport
+  npm install passport-local
+  npm install sequelize
+
 ```
 
 Then application will be invoked by using the following command:
