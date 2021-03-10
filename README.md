@@ -12,7 +12,7 @@ Welcome to my Portfolio Webpage where I share with you a little bit about me, an
 
  When you first click on my deployed link :https://youjmi.github.io/PorfolioSubmission/ , it will take you to the main page or the index. From there you will be able to guide yourself to the appropriate links on my NabvBar and my Social Media links in the footer.
  
-![updateP1](https://user-images.githubusercontent.com/73494581/108408395-00d6c980-71f3-11eb-9eae-ff8cc5cf622b.png)
+![image](https://user-images.githubusercontent.com/73494581/110570201-8e874400-8123-11eb-8173-96f81a2122e5.png)
 
  When you click on the Portfolio link, it will open to a page showing you three of my works that I am most proud of. 
 
@@ -70,7 +70,7 @@ Here is my Heroku link: https://yjk-burgerapp.herokuapp.com/
 
 Lastly, the Resume Link will direct you to a different page presenting to you my most up to date Resume.
 
-![image](https://user-images.githubusercontent.com/73494581/110531825-0c2e5e00-80ea-11eb-9a3b-2cc0a4feb6f4.png)
+![Screen Shot 2021-03-09 at 10 03 30 PM](https://user-images.githubusercontent.com/73494581/110570107-6c8dc180-8123-11eb-9054-745cf273de6f.png)
 
 
 
