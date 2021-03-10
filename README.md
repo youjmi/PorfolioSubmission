@@ -46,23 +46,17 @@ Password Generator : https://youjmi.github.io/JavaScriptHW3/
 
 <img width="726" alt="Screen Shot 2021-01-14 at 3 25 42 PM" src="https://user-images.githubusercontent.com/73494581/104678866-63035280-56ba-11eb-8bc9-9a5a7722b059.png">
 
-The fourth work is my Daily Calendar. It is color coded by matching the Hour of the Day and you are able to save inputs to Local Storage. This was my first experience with working with Local Storage. 
-
-Daily Calendar : https://youjmi.github.io/daily-planner-hw5/
-
-<img width="1025" alt="Screen Shot 2021-01-14 at 3 34 52 PM" src="https://user-images.githubusercontent.com/73494581/104678872-6565ac80-56ba-11eb-8956-2dce45725fa9.png">
-
-The fifth work is my Employee Tracker. I have created and built a solution for managing a company's employees using node, inquirer, and MySQL. This is accessible with node. 
+The fourth work is my Employee Tracker. I have created and built a solution for managing a company's employees using node, inquirer, and MySQL. This is accessible with node. 
 Here is my video tutorial: https://drive.google.com/file/d/1mlAl1Db10I4w3rwA4OJeufxc71HdvjHd/view
 
 ![employee-track](https://user-images.githubusercontent.com/73494581/108408696-5ca15280-71f3-11eb-81b4-5274dfee907a.png)
 
-The sixth work is my Employee Engine Generator, or a software engineering team generator. With this application, you will be able to navigate with ease and built your Team into an automatically generated html file.
+The fifth work is my Employee Engine Generator, or a software engineering team generator. With this application, you will be able to navigate with ease and built your Team into an automatically generated html file.
 Here is my video tutorial: https://drive.google.com/file/d/1wxurMJjvb-i9l85msngRN1PBPsV9LHCn/view
 
 ![employee-Engine](https://user-images.githubusercontent.com/73494581/108408708-6034d980-71f3-11eb-9738-f76bc8d2d59d.png)
 
-The seventh work is my Burger Logger Application. It is my most recent one that I have completed! I have created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. I have followed the MVC design pattern; using Node and MySQL to query and routing data in my app, and Handlebars to generate my HTML.
+The sixth work is my Burger Logger Application. It is my most recent one that I have completed! I have created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. I have followed the MVC design pattern; using Node and MySQL to query and routing data in my app, and Handlebars to generate my HTML.
 Here is my Heroku link: https://yjk-burgerapp.herokuapp.com/
 
 ![pic1Burg](https://user-images.githubusercontent.com/73494581/108408739-69be4180-71f3-11eb-83c8-530ec9833a2f.png)
