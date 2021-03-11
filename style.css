@@ -90,9 +90,12 @@ body {
 
     body {
       height: auto;
-      background-position: center;
-      background-repeat:repeat;
+      background-position: center center;
+      /* background-repeat:repeat; */
       background-size: cover;
+      background-image: url("./photos/bg.png");
+      background-attachment: fixed;
+      background-repeat: no-repeat;
     }
 
     .holdbox {
@@ -117,7 +120,6 @@ body {
   }
 
       body {
-        background-image: url("./photos/bg.png");
-        background-repeat: no-repeat;
+        
       }
   } 
