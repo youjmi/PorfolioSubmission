@@ -18,9 +18,9 @@ body {
     background-size: cover;
 }
 
-.mbox{
+/* .mbox{
   margin-top: 5%;
-}
+} */
 
 .introw{
   margin-top: 5%;
@@ -43,6 +43,8 @@ body {
     color: #f1f1f1; 
     width: 100%; 
     padding: 20px; 
+    margin-top: 5%;
+
 }
 
 /*Spacing out Buttons on portfolio*/
@@ -99,7 +101,8 @@ body {
 
 
   
-  @media only screen and (max-width: 600px) {
+  
+  @media only screen and (max-width: 800px) {
 
     body {
       height: auto;
@@ -119,6 +122,67 @@ body {
   } */
   
   h4,h6,.emailbox {
+    font-size: 60%;
+  }
+  br{
+    display: none;
+  }
+
+  .holdbox {
+
+    background: rgb(0, 0, 0); 
+    background: rgba(0, 0, 0, 0.5); 
+    color: #f1f1f1; 
+    width: 90%; 
+    margin-top: 0%;
+}
+
+.introw{
+  display: inline-block;
+}
+.Jeezy{
+  height: 200px;
+  width: 100px;
+}
+
+
+   
+    footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: center;
+     
+  }
+
+  
+}
+
+
+
+/* 
+  @media only screen and (min-width: 600px) {
+
+    body {
+      height: auto;
+      background-position: center center;
+      /* background-repeat:repeat; */
+      /* background-size: cover;
+      background-image: url("./photos/bg.png");
+      background-attachment: fixed;
+      background-repeat: no-repeat; */
+    /* }  */
+
+    /* .holdbox {
+
+      background: none;
+      width: 100%; 
+      padding: 20px; 
+  } */
+/*   
+  h4,h6,.emailbox {
     font-size: 70%;
   }
 
@@ -135,7 +199,7 @@ body {
 }
 
 .mbox{
-  margin-top: 0;
+  margin-top:60px;
 }
 
    
@@ -150,4 +214,4 @@ body {
   }
 
   
-}
+} 
