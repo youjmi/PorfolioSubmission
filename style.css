@@ -124,9 +124,9 @@ body {
   h4,h6,.emailbox {
     font-size: 90%;
   }
-  br{
+  /* br{
     display: none;
-  }
+  } */
 
   .holdbox {
 
