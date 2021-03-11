@@ -10,9 +10,9 @@
 ## Description
 Welcome to my Portfolio Webpage where I share with you a little bit about me, and some projects that I am proud of, and my Resume. 
 
- When you first click on my deployed link :https://youjmi.github.io/PorfolioSubmission/ , it will take you to the main page or the index. From there you will be able to guide yourself to the appropriate links on my NabvBar and my Social Media links in the footer.
+ When you first click on my deployed link :https://youjmi.github.io/PorfolioSubmission/ , it will take you to the main page or the index. From there you will be able to guide yourself to the appropriate links on my NabvBar and my Social Media links in the footer. If you would like to contact me personally, I have added a link where you can connect with me directly at "Email Me Here".
  
-![image](https://user-images.githubusercontent.com/73494581/110570201-8e874400-8123-11eb-8173-96f81a2122e5.png)
+![image](https://user-images.githubusercontent.com/73494581/110749582-4f362180-820f-11eb-9aa3-54318f95c948.png)
 
  When you click on the Portfolio link, it will open to a page showing you three of my works that I am most proud of. 
 
