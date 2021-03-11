@@ -16,7 +16,7 @@ Welcome to my Portfolio Webpage where I share with you a little bit about me, an
 
  When you click on the Portfolio link, it will open to a page showing you three of my works that I am most proud of. 
 
-![image](https://user-images.githubusercontent.com/73494581/110570576-1d945c00-8124-11eb-8295-04523fb6557b.png)
+![image](https://user-images.githubusercontent.com/73494581/110749891-b0f68b80-820f-11eb-9fd2-594797411685.png)
 
 ## Usage
 
