@@ -25,7 +25,10 @@ body {
 /* .Jeezy{
   margin-left: 90px;
 } */
-
+.Jeezy{
+  height: 500px;
+  width: 250px;
+}
 
 /* Wanted to create a box where the Intro Text is more visible*/
 .holdbox {
@@ -93,7 +96,7 @@ body {
 }
  
   
-  @media only screen and (max-width: 700px) {
+  @media only screen and (max-width: 600px) {
 
     body {
       height: auto;
@@ -118,6 +121,10 @@ body {
     background: rgba(0, 0, 0, 0.5); 
     color: #f1f1f1; 
     width: 90%; 
+}
+.Jeezy{
+  height: 200px;
+  width: 100px;
 }
 
 .mbox{
