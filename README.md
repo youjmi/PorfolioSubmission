@@ -68,6 +68,10 @@ Github: https://github.com/youjmi/BechdelBillboard
 
 The next work is my second project I was recently a part of. I focused mostly on the Backend portion of this project at first, before having to migrate to FullStack when we lost our 4th member.  This second project is called the Bechdel Billboard. The Bechdel Billboard is an app that allows the user to find a ist of movies that pass the bechdel test and allow for our users to blog and comment on the stories that inspire them. The application uses MySql to store blog posts, users, and movie data. Current data is pulled from various sources on the internet and compiled into a CSV that has over 6,000 movies. The application features the ability to add movies and have them approved by the website admins before being added to the list. Future goals for the application include adding the ability to favorite movies on the list and have them stored in the database and accessed by the user on their user profile. For user security the application uses passport to encrypt passwords entered by the user. We hope our application adds an additional, interactive resource for users to learn more about movies empowering women through the decades.
 
+I would like to give special recognition to my Bechdel Billboard Partners:
+1. Frankie Rosado - https://github.com/Franciscorosado09
+2. Rachel Wanke: - https://github.com/rwanke14
+
 ![image](https://user-images.githubusercontent.com/73494581/110530331-4eef3680-80e8-11eb-8947-db2caf8d2789.png)
 
 Lastly, the Resume Link will direct you to a different page presenting to you my most up to date Resume.
