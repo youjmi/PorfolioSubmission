@@ -54,6 +54,8 @@ body {
     display:inline-block;
 }
 
+
+
 /*Place to put Resume*/ 
 .Resume{
     /* display:flex; */
@@ -64,6 +66,11 @@ body {
   height:70%;
   width: 70%;
 
+}
+
+.btn {
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 /* #Resume{
@@ -124,9 +131,12 @@ body {
       padding: 20px; 
   } */
   
-  h4,h6,.emailbox {
+
+  h4,h6,.emailbox,.downbox {
     font-size: 100%;
   }
+
+ 
   /* br{
     display: none;
   } */
